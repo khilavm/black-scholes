@@ -1,0 +1,1 @@
+In this note, we take a look at some of the assumptions underlying two derivations of the Black-Scholes-Merton model, one starting from binomial trees and the other using dynamic hedging and Ito's lemma.
